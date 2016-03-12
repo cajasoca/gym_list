@@ -1,0 +1,15 @@
+$page_width: 100%
+$page_background: #1d1d1d;
+
+*{
+		padding:0;
+		margin:0;
+}
+
+body{
+	background-color:$page_background;
+}
+.container{
+	width:$page_width;
+	position:relative;
+}
